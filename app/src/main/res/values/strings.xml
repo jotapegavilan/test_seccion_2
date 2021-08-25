@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MI APP</string>
+    <string name="superior">SALUDAR</string>
+    <string name="inferior">AUMENTAR CONTADOR</string>
+</resources>
